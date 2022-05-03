@@ -1,4 +1,6 @@
-# CURSO DE PYTHON - CURSO EM VÍDEO
+<div align="center">
+    <h1>CURSO DE PYTHON - CURSO EM VÍDEO</h1>
+</div>
 
 <div align="center">
     <img src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png" width="200" height="200" />
