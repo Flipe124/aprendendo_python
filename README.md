@@ -15,3 +15,11 @@
  f = 5//2  - Divisão inteira
  g = 5%2   - Resto da divisão
 ```
+
+## Ordem de precedência:
+```
+ (1) -> ()
+ (2) -> **
+ (3) -> * / // %
+ (4) -> + -
+```
