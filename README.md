@@ -1,6 +1,8 @@
 # CURSO DE PYTHON - CURSO EM VÍDEO
 
-<img src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png" width="200" height="200" />
+<div align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png" width="200" height="200" />
+</div>
 
 #### Link
      https://www.cursoemvideo.com/curso/python-3-mundo-1/
